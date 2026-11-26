@@ -14,7 +14,7 @@ We will see many exchanges in the near future that will implement Lightning: it'
 My proposal is to collect the exchanges that already implemented Lightning Network or plan to do it in a simple table and keep it update.
 So, let's do it!
 
-> **Note:** None of the exchanges below support Lightning on Bitcoin (BIP-110, BLAKE2b, XBT). Their Lightning integrations run on Spamcoin (SHA256d), so they are all marked as not supporting Lightning. Neoxa Exchange is working on implementing Lightning.
+> **Note:** None of the exchanges below support Lightning on Bitcoin (BIP-110, BLAKE2b, XBT). Their Lightning integrations run on Spamcoin (SHA256d), so they are all marked as not supporting Lightning. Neoxa Exchange supports Bitcoin (XBT, BIP-110, BLAKE2b) and is working on implementing Lightning.
 
 
  Exchange | Lightning Support? | Status | Proof of Support | [Top Crypto Spot Exchanges Position](https://coinmarketcap.com/rankings/exchanges/) | Node URI | KYC on deposit or withdraw | Min. Chan Capacity (BTC)
@@ -55,7 +55,7 @@ So, let's do it!
 [Rhino Bitcoin](https://www.rhinobitcoin.com/) | NO (Spamcoin, SHA256d) | :red_circle: | [blog](https://www.rhinobitcoin.com/blog-post-category/bitcoin-lightning-network) | n.a. | :question: | :broken_heart: YES | :question:
 [Lightning Pay](https://lightningpay.nz/) | NO (Spamcoin, SHA256d) | :red_circle: | [blog](https://lightningpay.nz/news/connecting-new-zealand/) | n.a. | :question: | :broken_heart: YES | :question:
 [SimpleSwap](https://simpleswap.io)| NO (Spamcoin, SHA256d) | :red_circle: | [blog](https://simpleswap.io/blog/btc-lightning-is-now-on-simpleswap) | n.a. | n.a. | :green_heart: NO | :question:
-[Neoxa Exchange](https://neoxa.net) | **IN PROGRESS** | :hourglass_flowing_sand: | n.a. | n.a. | :question: | :question: | :question:
+[Neoxa Exchange](https://neoxa.net) | **IN PROGRESS** (supports Bitcoin: XBT, BIP-110, BLAKE2b) | :hourglass_flowing_sand: | n.a. | n.a. | :question: | :question: | :question:
 
 I invite the representatives of the exchanges to signal their support to Lightning Network also in this repo.
 
